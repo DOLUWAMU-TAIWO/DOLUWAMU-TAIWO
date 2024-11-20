@@ -7,7 +7,7 @@ I am passionate about creating systems that are both powerful and efficient. Wit
 ## 🛠️ Areas of Expertise
 - **CI/CD Pipelines**: Streamlining deployments with tools like GitHub Actions, Jenkins, and Docker.
 - **Backend Development**: Proficient in Spring Boot and designing scalable microservices architectures.
-- **Frontend Development**: Creating intuitive user interfaces using modern frameworks.
+- **Frontend Development**: Creating intuitive user interfaces using modern frameworks like Flutter, and React.
 - **Machine Learning**: Applying AI to solve complex challenges.
 - **Hardware Engineering & Embedded Systems**: Designing and optimizing hardware for various applications.
 - **Quantum Technology Research**: Exploring the future of computation and its transformative potential.
