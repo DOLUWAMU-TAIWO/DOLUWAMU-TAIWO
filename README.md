@@ -65,11 +65,20 @@ Hello There!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
 ![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-3333FF?style=for-the-badge&logo=qubes-os&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-FFCA28?style=for-the-badge&logo=ibm&logoColor=black)
 
----
+
+
 
  ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DOLUWAMU-TAIWO&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DOLUWAMU-TAIWO&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DOLUWAMU-TAIWO&layout=compact&theme=radical)
+
+## 🌐 Connect with Me
+
+- **Website**: [Qorelabs.org](https://www.qorelabs.org)
+- **GitHub**: [DOLUWAMU-TAIWO](https://github.com/DOLUWAMU-TAIWO)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/doluwamu-kuye/)
+
+---
 
