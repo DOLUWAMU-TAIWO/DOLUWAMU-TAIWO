@@ -1,5 +1,5 @@
 # Welcome to My GitHub! 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+
 
 🌟 **Leader | Innovator | Tech Enthusiast**
 
@@ -14,7 +14,7 @@ I am a cum laude graduate in Electronics Engineering with a 1.7 GPA from a Germa
 ## 💡 Professional Experience
 While balancing academics, I worked as a **working student** and was later promoted to **project leader** at an IT and networking company. Here, I honed my skills in distributed systems, AV, and IT, leading large-scale engineering projects. I later founded **Qorelabs**, where I deliver innovative software solutions across disciplines.
 
-## 🌌 My Vision
+## 🌌 My Vision <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 As a leader, I am passionate about creating systems that are both powerful and efficient. I leverage my strong foundation in **distributed systems, CI/CD, backend development**, and intuitive frontend design to drive excellence in every project. My machine learning journey was fueled by a natural affinity for mathematics and probabilities, leading to three research papers on algorithms.
 
 My dreams are boundless—I aspire to drive the **quantum engineering wave** and make a tangible difference through groundbreaking innovations.
