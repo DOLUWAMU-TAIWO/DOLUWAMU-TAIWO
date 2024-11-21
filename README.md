@@ -24,8 +24,7 @@ Hello There!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif
 - **Strive for Excellence**: I believe in performant systems with 100% validation and verification.
 
 ## 🌱 Current Focus
-- Royalty flow **Roayalty Aggregation Platform**
-- 
+- Royalty flow **Royalty Aggregation Platform**
 - Researching **quantum technology** and its applications.
 - Enhancing systems for efficiency and scalability.
 
