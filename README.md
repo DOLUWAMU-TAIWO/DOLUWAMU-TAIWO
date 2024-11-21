@@ -5,7 +5,7 @@
 I am passionate about creating systems that are both powerful and efficient. With a diverse skill set and a dedication to excellence, I focus on building technologies that solve real-world problems.
 
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">👋 Hello There!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello There!
 
 ## 💻 Coding is Life
 
