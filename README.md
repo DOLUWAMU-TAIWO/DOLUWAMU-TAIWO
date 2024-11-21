@@ -51,7 +51,10 @@ I am passionate about creating systems that are both powerful and efficient. Wit
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-0A5DAB?style=for-the-badge&logo=intel&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-6DB33F?style=for-the-badge&logo=verilog&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-FFA500?style=for-the-badge&logo=vhdl&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-005DAC?style=for-the-badge&logo=riscv&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
 
 ### 🌌 Quantum & Future Tech
 ![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-3333FF?style=for-the-badge&logo=qubes-os&logoColor=white)
