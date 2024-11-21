@@ -1,4 +1,5 @@
-# Welcome to My GitHub! 👋
+# Welcome to My GitHub! 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
 🌟 **Leader | Innovator | Tech Enthusiast**
 
@@ -22,7 +23,7 @@ My dreams are boundless—I aspire to drive the **quantum engineering wave** and
 
 Let's make it happen! 🚀
 
-Hello There!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+
 
 
 
