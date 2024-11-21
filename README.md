@@ -61,3 +61,10 @@ I am passionate about creating systems that are both powerful and efficient. Wit
 ![Qiskit](https://img.shields.io/badge/Qiskit-FFCA28?style=for-the-badge&logo=ibm&logoColor=black)
 
 ---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
