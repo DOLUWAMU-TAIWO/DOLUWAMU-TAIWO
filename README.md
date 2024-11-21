@@ -1,7 +1,7 @@
 # Welcome to My GitHub! 
 
 
-🌟 **Leader | Innovator | Tech Enthusiast**
+🌟 **Electronics Engineer | System Architect | Innovator | Quantume Engineer **
 
 
 I am a cum laude graduate in Electronics Engineering with a 1.7 GPA from a German university, where I explored and excelled in topics like cyber-physical systems, embedded systems, machine learning, dimensionality reduction, and processor architecture (RISC-V). My passion for engineering led me to develop cutting-edge projects, including autonomous smart vehicles, traffic systems, and modular RISC-V processors on FPGAs.
