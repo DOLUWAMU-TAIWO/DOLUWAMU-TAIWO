@@ -1,7 +1,13 @@
 # Welcome to My GitHub! 
 
 🌟 **Electronics Engineer | System Architect | Innovator | Quantum Engineer**
-I am a cum laude graduate in Electronics Engineering with a 1.7 GPA from a German university, where I explored and excelled in topics like cyber-physical systems, embedded systems, machine learning, dimensionality reduction, and processor architecture (RISC-V). My passion for engineering led me to develop cutting-edge projects, including autonomous smart vehicles, traffic systems, and modular RISC-V processors on FPGAs.
+
+I am an Electronics Engineer driven by a passion for designing systems that are both powerful and efficient. I studied in Germany at the University of Hamm, where I explored and excelled in topics like cyber-physical systems, embedded systems, machine learning, dimensionality reduction, and processor architecture (RISC-V).
+
+During my academic journey, I was introduced to programming languages like **C++**, **Python**, and **Java**, which became essential tools in my engineering projects. My passion for innovation led me to develop cutting-edge systems, including autonomous smart vehicles, traffic management systems, and modular RISC-V processors on FPGAs. 
+
+With a commitment to excellence and innovation, I continue to bridge technical expertise and creativity to tackle real-world challenges and create impactful solutions.
+
 
 ## 🛠️ My Journey
 - **Thesis Achievement**: Integrated and implemented RISC-V processors on FPGAs, working at the bare-metal level to create customized drivers and run diverse applications.
