@@ -32,7 +32,7 @@ Let's make it happen! 🚀
 
 
 ## 🛠️ Areas of Expertise
-- **CI/CD Pipelines**: Streamlining deployments with tools like GitHub Actions, Jenkins, and Docker.
+- **CI/CD Pipelines**: Streamlining deployments with tools like GitHub Actions, Jenkins, kubernetes, argoCD, Ansible, and Docker.
 - **Backend Development**: Proficient in Spring Boot and designing scalable microservices architectures.
 - **Frontend Development**: Creating intuitive user interfaces using modern frameworks like Flutter, and React.
 - **Machine Learning**: Applying AI to solve complex challenges.
