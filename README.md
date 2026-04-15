@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 
 
-🌟 **Electronics Engineer | System Architect **
+🌟 Electronics Engineer | System Architect 
 
 ---
 
